@@ -45,18 +45,9 @@ input[type=text] {
   box-sizing: border-box;
   margin-bottom: 10px;
 }
-
-.language{
-  height: 100%;
-}
-.language-text{
-  margin: -5px 10px 0px 0px !important;
-}
-.language-eng{
+.button{
   cursor: pointer;
-  margin: 0px 5px !important;
-}
-.language-ng{
-  cursor: pointer;
-  margin: 0px 5px !important;
+  width:100px;
+  box-shadow: 5px 10px #888888;
+  margin: 20px 0px;
 }
